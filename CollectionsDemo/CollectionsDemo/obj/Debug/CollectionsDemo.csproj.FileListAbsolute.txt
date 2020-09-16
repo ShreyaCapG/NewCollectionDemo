@@ -1,0 +1,7 @@
+C:\Office\Live Trainings\College Hire\2020\Dot Net FSD Aug 20th 2020\C#\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+C:\Office\Live Trainings\College Hire\2020\Dot Net FSD Aug 20th 2020\C#\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Office\Live Trainings\College Hire\2020\Dot Net FSD Aug 20th 2020\C#\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Office\Live Trainings\College Hire\2020\Dot Net FSD Aug 20th 2020\C#\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csprojAssemblyReference.cache
+C:\Office\Live Trainings\College Hire\2020\Dot Net FSD Aug 20th 2020\C#\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Office\Live Trainings\College Hire\2020\Dot Net FSD Aug 20th 2020\C#\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\Office\Live Trainings\College Hire\2020\Dot Net FSD Aug 20th 2020\C#\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.pdb
